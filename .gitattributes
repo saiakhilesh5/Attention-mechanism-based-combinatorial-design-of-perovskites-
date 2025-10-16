@@ -1,2 +1,4 @@
+models/trained_models/UnnamedModel.pth filter=lfs diff=lfs merge=lfs -text
+enhanced_dataset_edm.npz filter=lfs diff=lfs merge=lfs -text
 *.npz filter=lfs diff=lfs merge=lfs -text
 *.pth filter=lfs diff=lfs merge=lfs -text
